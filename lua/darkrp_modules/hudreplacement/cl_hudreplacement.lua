@@ -18,7 +18,7 @@ local hideHUDElements = {
 
     -- If you have hungermod enabled, you will see a hunger bar in the DarkRP_LocalPlayerHUD
     -- This does not get disabled with DarkRP_LocalPlayerHUD so you will need to disable DarkRP_Hungermod too
-    ["DarkRP_Hungermod"] = false,
+    ["DarkRP_Hungermod"] = true,
 
     -- Drawing the DarkRP agenda
     ["DarkRP_Agenda"] = false,
